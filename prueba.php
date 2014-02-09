@@ -9,7 +9,7 @@ $b = 2;
 
 print "la suma de a y b es " . ($a + $b) . PHP_EOL;
 
-print "este es un ejemplo muy sencillo" . PHP_EOL;
+print "(CAMBIO 2) este es un ejemplo muy sencillo" . PHP_EOL;
 
 
 
