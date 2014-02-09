@@ -2,7 +2,7 @@
 
 // ejemplo para ilustrar los conflictos en GIT y su resolucion
 
-print "este es un sencillo ejemplo que permite ilustrar los conlfictos en git" . PHP_EOL;
+print "(CAMBIO 1)este es un sencillo ejemplo que permite ilustrar los conlfictos en git" . PHP_EOL;
 
 $a = 1;
 $b = 2;
