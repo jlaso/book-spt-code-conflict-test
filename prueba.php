@@ -7,7 +7,7 @@ print "(CAMBIO 1)este es un sencillo ejemplo que permite ilustrar los conlfictos
 $a = 1;
 $b = 2;
 
-print "(CAMBIO 4 del OTRO USUARIO) la suma de a y b es " . ($a + $b) . PHP_EOL;
+print "(CAMBIO 3 del USUARIO 1) la suma de a y b es " . ($a + $b) . PHP_EOL;
 
 print "(CAMBIO 2) este es un ejemplo muy sencillo" . PHP_EOL;
 
